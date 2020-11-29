@@ -1,0 +1,62 @@
+{
+  "favorites": [
+    {
+      "taskId": 6,
+      "id": 6
+    },
+    {
+      "taskId": 3,
+      "id": 9
+    },
+    {
+      "taskId": 8,
+      "id": 10
+    },
+    {
+      "taskId": 1,
+      "id": 11
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Book Satu",
+      "category": "Backend",
+      "id": 1
+    },
+    {
+      "title": "Book Dua",
+      "category": "Backend",
+      "id": 2
+    },
+    {
+      "title": "Book Tiga",
+      "category": "Frontend",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Book Empatssssssss",
+      "category": "Backend"
+    },
+    {
+      "title": "Book Lima",
+      "category": "Frontend",
+      "id": 5
+    },
+    {
+      "title": "Book Enam",
+      "category": "Mobile",
+      "id": 6
+    },
+    {
+      "title": "Book Tujuh",
+      "category": "Mobile",
+      "id": 7
+    },
+    {
+      "title": "advan g9pro",
+      "category": "Mobile",
+      "id": 8
+    }
+  ]
+}
